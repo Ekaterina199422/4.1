@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainKtTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2020-10-24T09:38:48" hostname="ПОЛЬЗОВАТЕЛЬ-ПК" time="0.051">
+  <properties/>
+  <testcase name="calculatePayUnderLimit_Visa" classname="MainKtTest" time="0.035"/>
+  <testcase name="calculatePayHigherMounthLimit_VkPay" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatePayHigherAmountLimit_Mastercard" classname="MainKtTest" time="0.009"/>
+  <testcase name="calculatePayHigherMounthLimit_Mastercard" classname="MainKtTest" time="0.001"/>
+  <testcase name="calculatePayHigherDayLimit_Mastercard" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatePayHigherAmountLimit_Maestro" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatePayHigherDayLimit_Visa" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatePayUnderLimit_Mastercard" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatePayHigherDayLimit_Mir" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatePayUnderLimit_Mir" classname="MainKtTest" time="0.001"/>
+  <testcase name="calculatePayUnderLimit_VkPay" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatePayHigherMounthLimit_Visa" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatePayHigherPayLimit_Visa" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatePayHigherDayLimit_Maestro" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatePayHigherMounthLimit_Mir" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatePayUnderLimit_Maestro" classname="MainKtTest" time="0.001"/>
+  <testcase name="calculatePayHigherDayLimit_VkPay" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatePayHigherMounthLimit_Maestro" classname="MainKtTest" time="0.0"/>
+  <testcase name="calculatePayHigherPayLimit_Mir" classname="MainKtTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
